@@ -5,10 +5,12 @@
 - 💪 Currently working as a freelance Full Stack Developer.
 - 💝 Author of multiple open source projects
 - 🔭 Looking for new clients who wants to work with me, [contact me](mailto:robinsabbir@gmail.com) please.
+<br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-hossain)
+[![LinkedIn](https://img.shields.io/badge/-Portfolio-red?&style=flat-square)](https://w3bd.com)
 
-
-## Technologies
+## 🔧 Technologies
 
 ![PHP](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/php.svg) 
 ![JavaScript](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/javascript.svg) 
