@@ -25,11 +25,9 @@
 ![Bootstrap](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/bootstrap.svg) 
 ![Codeigniter](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/codeigniter.svg) 
 ![Docker](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/docker.svg) 
-![Express.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/expressjs.svg) 
 ![Git](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/git.svg) 
 ![Gulp](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/gulp.svg) 
-![jQuery](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/jquery.svg) 
-![Less](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/less.svg) 
+![jQuery](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/jquery.svg)
 
 
 
