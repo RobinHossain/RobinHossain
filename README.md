@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi, I'm Robin Hossain (☕💻💡)
 
-<!--
-**RobinHossain/RobinHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Open+To+Work;I+work+with+PHP%2FLaravel%2FCakePHP;I+work+with+JavaScript%2FNode.js;I+work+with+MySql%2FMongoDB;Nice+to+meet+you...)](https://w3bd.com)
 
-Here are some ideas to get you started:
+- 💪 Currently working as a freelance Full Stack Developer.
+- 💝 Author of multiple open source projects
+- 🔭 Looking for new clients who wants to work with me, [contact me](mailto:robinsabbir@gmail.com) please.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Technologies
+
+![PHP](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/php.svg) 
+![JavaScript](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/javascript.svg) 
+![Laravel](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/lavarel.svg) 
+![Node.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/nodejs.svg) 
+![MySql](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mysql.svg) 
+![Apache](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/apache.svg) 
+![AWS](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/aws.svg) 
+![SQL](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/sql.svg) 
+![MongoDB](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mongo.svg) 
+![React.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/react.svg) 
+![Bootstrap](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/bootstrap.svg) 
+![Codeigniter](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/codeigniter.svg) 
+![Docker](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/docker.svg) 
+![Express.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/expressjs.svg) 
+![Git](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/git.svg) 
+![Gulp](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/gulp.svg) 
+![jQuery](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/jquery.svg) 
+![Less](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/less.svg) 
+
+
+
