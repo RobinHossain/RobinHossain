@@ -14,11 +14,11 @@
 ## 🔧 Technologies
 
 ![React.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/react.svg) 
-![JavaScript](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/javascript.svg)  
-![Node.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/nodejs.svg) 
-![PHP](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/php.svg) 
+![JavaScript](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/javascript.svg)
+![Node.js](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/nodejs.svg)
+![PHP](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/php.svg)
 ![Laravel](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/lavarel.svg)
-![MySql](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mysql.svg) 
+![MySql](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/mysql.svg)
 ![Apache](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/apache.svg) 
 ![AWS](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/aws.svg) 
 ![SQL](https://raw.githubusercontent.com/Workshape/tech-icons/master/icons/sql.svg) 
