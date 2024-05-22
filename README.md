@@ -5,7 +5,7 @@
 - 💪 Currently working as a freelance Full Stack Developer.
 - 💝 Author of multiple open source projects
 - 🔭 Looking for new clients who wants to work with me, [contact me](mailto:robinsabbir@gmail.com) please.
-- 📄 Know about [my experiences](https://w3bd.com/content/resume.pdf)
+- 📄 Know about [my experiences](https://robin.w3bd.com/content/resume.pdf)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-hossain)
