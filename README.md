@@ -2,46 +2,45 @@
 
 # Hi 👋 I'm Robin Hossain
 
-### Senior Full Stack Developer • Laravel Expert • SaaS Builder
+### Senior Software Engineer • Laravel Expert • Product Builder
 
-Building scalable web applications, SaaS platforms, AI-powered solutions, and business automation software for startups and companies worldwide.
+Building scalable SaaS platforms, AI-powered solutions, and business software with Laravel and modern JavaScript technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robin.softentra.com-blue?style=for-the-badge)](https://robin.softentra.com)
-[![Company](https://img.shields.io/badge/SoftEntra-Website-orange?style=for-the-badge)](https://softentra.com)
-[![Wellfound](https://img.shields.io/badge/Wellfound-Profile-black?style=for-the-badge)](https://wellfound.com)
+[![SoftEntra](https://img.shields.io/badge/SoftEntra-Company-orange?style=for-the-badge)](https://softentra.com)
+[![Wellfound](https://img.shields.io/badge/Wellfound-Open_to_Work-black?style=for-the-badge)](https://wellfound.com)
 
 </div>
 
 ---
 
-> 🚀 **Open to Remote Senior Software Engineer, Senior Laravel Developer, and Full Stack Developer opportunities worldwide.**
+> 🚀 **Open to remote Senior Software Engineer, Senior Laravel Developer, and Full Stack Engineer opportunities.**
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Senior Full Stack Web Developer** with **12+ years of professional experience** building modern web applications used by businesses around the world.
+I'm a **Senior Software Engineer** with **12+ years of professional experience** building scalable web applications, SaaS platforms, and business software used by companies worldwide.
 
-I specialize in designing scalable backend systems, developing modern frontends, and transforming ideas into production-ready software.
+I specialize in backend architecture, modern frontend development, API design, cloud deployment, and transforming ideas into reliable production-ready products.
 
-Currently I build products through **SoftEntra**, where I create Laravel applications, SaaS platforms, CRM systems, business automation software, and AI-powered solutions.
+Through **SoftEntra**, I build Laravel applications, SaaS platforms, CRM systems, business automation software, and AI-powered solutions.
 
-I enjoy writing clean, maintainable code and solving complex engineering problems.
+I enjoy writing clean, maintainable code, solving complex engineering problems, and building products that deliver long-term value.
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
 - 💼 Full Stack Web Development
-- ⚙ Laravel Application Development
-- ☁ SaaS Product Development
+- ⚙ Laravel & PHP Development
+- ☁ SaaS & Multi-Tenant Applications
 - 🤖 AI Integration & Automation
-- 🔗 REST API Development
-- 📦 Multi-Tenant Applications
+- 🔗 REST API Design & Development
 - 💳 Payment Gateway Integration
-- ☁ AWS & Cloud Deployment
+- ☁ Cloud Infrastructure & Deployment
 - 🚀 Performance Optimization
-- 🔒 Secure & Maintainable Architecture
+- 🔒 Secure & Maintainable Software Architecture
 
 ---
 
@@ -78,9 +77,9 @@ I enjoy writing clean, maintainable code and solving complex engineering problem
 
 ---
 
-# 📦 Products
+# 📦 Featured Products
 
-Creator of commercial software products including
+Creator of commercial software products including:
 
 - 🚀 HelpDesk Pro
 - 📅 ProSchedule
@@ -88,56 +87,42 @@ Creator of commercial software products including
 - 🪪 CardGen
 - 📊 Task Manager Pro
 
-More than **1,500+ customers** have purchased my products on CodeCanyon. :contentReference[oaicite:1]{index=1}
+Trusted by **1,500+ customers** through my commercial software products.
 
 ---
 
-# 🌱 Currently Exploring
+# ⭐ Featured Projects
 
-- AI Agents
-- OpenAI API
-- Claude API
-- MCP
-- Laravel 12
-- Vue 3
-- React
-- TypeScript
-- Docker
-- AWS
+Here are a few projects that showcase my experience in building scalable web applications and commercial software.
+
+- 🚀 **HelpDesk Pro** – AI-powered helpdesk and customer support platform
+- 📅 **ProSchedule** – Online appointment booking system
+- 📋 **ProTask** – Project management system
+- 🪪 **CardGen** – Business & ID card generator
+
+> 📌 Explore more projects in the repositories below.
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Currently Building
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RobinHossain&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinHossain&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RobinHossain&hide_border=true"/>
-
-</p>
+- 🤖 AI-powered CRM and business automation platforms
+- ⚡ Modern SaaS applications with Laravel 12
+- 🏢 Commercial software products through SoftEntra
+- 🔗 REST APIs and third-party integrations
+- ☁ Cloud-native deployments with Docker, Nginx, Redis, and AWS
 
 ---
 
 # 🤝 Let's Connect
 
-🌐 Portfolio  
-https://robin.softentra.com
-
-🏢 Company  
-https://softentra.com
-
-📧 Email  
-robinsabbir@gmail.com
+- 🌐 **Portfolio:** https://robin.softentra.com
+- 🏢 **SoftEntra:** https://softentra.com
+- 💼 **Wellfound:** https://wellfound.com
+- 📧 **Email:** robinsabbir@gmail.com
 
 ---
 
-> _"Great software isn't just about writing code. It's about solving real problems with clean architecture, thoughtful design, and long-term maintainability."_
+> *"Building software that is scalable, maintainable, and solves real business problems."*
 
 ⭐ Thanks for visiting my GitHub profile!
