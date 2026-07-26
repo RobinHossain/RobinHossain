@@ -81,6 +81,8 @@ I enjoy writing clean, maintainable code, solving complex engineering problems, 
 
 Creator of commercial software products including:
 
+- 📈 GrowStack CRM
+- 🦷 Dental Care Pro
 - 🚀 HelpDesk Pro
 - 📅 ProSchedule
 - 📋 ProTask
@@ -95,6 +97,8 @@ Trusted by **1,500+ customers** through my commercial software products.
 
 Here are a few projects that showcase my experience in building scalable web applications and commercial software.
 
+- 📈 **GrowStack CRM** — CRM platform for sales, marketing, and customer management.
+- 🦷 **DentalCare Pro** — Complete dental clinic management solution.
 - 🚀 **HelpDesk Pro** – AI-powered helpdesk and customer support platform
 - 📅 **ProSchedule** – Online appointment booking system
 - 📋 **ProTask** – Project management system
