@@ -8,7 +8,7 @@ Building scalable SaaS platforms, AI-powered solutions, and business software wi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robin.softentra.com-blue?style=for-the-badge)](https://robin.softentra.com)
 [![SoftEntra](https://img.shields.io/badge/SoftEntra-Company-orange?style=for-the-badge)](https://softentra.com)
-[![UpWork](https://img.shields.io/badge/Wellfound-Open_to_Work-black?style=for-the-badge)](https://www.upwork.com/freelancers/~01827b31c3afc5406a)
+[![UpWork](https://img.shields.io/badge/UpWork-Open_to_Work-black?style=for-the-badge)](https://www.upwork.com/freelancers/~01827b31c3afc5406a)
 
 
 </div>
